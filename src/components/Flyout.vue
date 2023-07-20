@@ -114,10 +114,12 @@
   </template>
   
   <script setup>
-  import { ref } from 'vue'
-  import { Dialog, DialogPanel, TransitionChild, TransitionRoot } from '@headlessui/vue'
-  import { HeartIcon, XMarkIcon } from '@heroicons/vue/24/outline'
-  import { PencilIcon, PlusIcon } from '@heroicons/vue/20/solid'
-  
-  const open = ref(false)
+    import { ref } from 'vue'
+    import { Dialog, DialogPanel, TransitionChild, TransitionRoot } from '@headlessui/vue'
+    import { HeartIcon, XMarkIcon } from '@heroicons/vue/24/outline'
+    import { PencilIcon, PlusIcon } from '@heroicons/vue/20/solid'
+    
+    const open = ref(true)
+
+
   </script>

@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f949a984-3722-447a-a7f0-fff04724314c/deploy-status)](https://app.netlify.com/sites/matterhornart/deploys)
+
 # Astro Starter Kit: Basics
 
 ```

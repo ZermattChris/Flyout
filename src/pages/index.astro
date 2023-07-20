@@ -1,12 +1,15 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import Flyout from '../components/Flyout.vue';
-//import Flyout from '../components/Flyout.jsx';
+import Layout from '../layouts/Layout.astro'
+import Flyout from '../components/Flyout.vue'
+import MailingList from '../components/MailingList.vue';
+
 ---
 
-<Layout title="Trying to get Tailwind flyout working...">
+<Layout title="Matterhorn Art Studios - Museum Grade Collectible Art Reproductions and Originals.">
 	
 	<Flyout client:idle/>
+
+	<MailingList client:load />
 
 </Layout>
 

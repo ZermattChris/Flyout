@@ -1,7 +1,7 @@
 
 <template>
-    <div class="flex min-h-full flex-1 flex-col justify-center pt-0 pb-6 py-18 ">
-      <div class="sm:mx-auto sm:w-full sm:max-w-sm">
+    <div class="flex min-h-full flex-1 flex-col justify-center pb-6 py-18 ">
+      <div class="sm:mx-auto sm:w-full sm:max-w-sm -mt-12">
 
         <img src="/Matterhorn-Art-Studios-logo.svg" alt="Matterhorn Art Studios Logo" />
 
